@@ -1,14 +1,21 @@
 Version 2.0
- feature1
+feature5
+feature5
+Sima : i have made some changes, idk what
+feature1
  feature1
 
 Srasti:
 making changes in the notes file
 
+main
 feature2
 Sneha Rani
 i have changed
  main
 login page feature implemented.
 
+feature5
+main
 Siya has implemented the login page feature.
+ main
