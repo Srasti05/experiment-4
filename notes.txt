@@ -1,4 +1,18 @@
 Version 2.0
+ feature4
+feature
+Sinchana Prabhu - I have made some changes
+=======
+feature2
+Sneha Rani
+i have changed
+
+Don't change sneha
+
+login page feature implemented.
+
+ main
+=======
  feature1
  feature1
 
@@ -12,3 +26,4 @@ i have changed
 login page feature implemented.
 
 Siya has implemented the login page feature.
+main
