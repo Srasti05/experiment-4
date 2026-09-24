@@ -1,4 +1,5 @@
 Version 2.0
+ feature4
 feature
 Sinchana Prabhu - I have made some changes
 =======
@@ -11,3 +12,18 @@ Don't change sneha
 login page feature implemented.
 
  main
+=======
+ feature1
+ feature1
+
+Srasti:
+making changes in the notes file
+
+feature2
+Sneha Rani
+i have changed
+ main
+login page feature implemented.
+
+Siya has implemented the login page feature.
+main
